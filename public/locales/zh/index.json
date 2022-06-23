@@ -1,10 +1,10 @@
 {
-    "by-creation-date": "Creation date",
-    "create-timetable": "Create a new timetable",
-    "my-timetables": "My timetables",
-    "shared-with": "Shared with me",
-    "templates": "Templates",
-    "settings": "Settings",
-    "search": "Search"
+    "by-creation-date": "按建立日期排序",
+    "create-timetable": "建立新日程表",
+    "my-timetables": "我的日程表",
+    "shared-with": "与我分享的日程表",
+    "templates": "预设模板",
+    "settings": "设定",
+    "search": "搜索"
 
 }
